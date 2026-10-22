@@ -4,3 +4,4 @@ Public legal pages for the Renewly iOS app, served with GitHub Pages (plain HTML
 
 - Privacy policy: https://hansaanuradha93.github.io/renewly-legal/privacy.html
 - Terms: Apple standard EULA, https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+- Support: https://hansaanuradha93.github.io/renewly-legal/support.html
